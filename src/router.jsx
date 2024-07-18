@@ -57,4 +57,5 @@ const routes = [
 const router = createBrowserRouter(routes,{
   basename: "/flight-server"
 });
+
 export default router;
